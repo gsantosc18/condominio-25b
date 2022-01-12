@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Condominio 25B</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="topic_pagamentos">PAGAMENTOS DO MÊS</string>
+    <string name="inicio">Inicio</string>
+    <string name="pagamentos">Pagamentos</string>
+</resources>

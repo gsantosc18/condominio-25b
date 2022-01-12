@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039542871569",
+    "project_id": "condominio-bloco-25-b",
+    "storage_bucket": "condominio-bloco-25-b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039542871569:android:e9557ae26770da959633b0",
+        "android_client_info": {
+          "package_name": "br.com.gedalias.appcondominio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039542871569-60eepafcf9o76hnha1uvrnorf6rckivg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gedalias.appcondominio",
+            "certificate_hash": "9513984c9c6b2ffeef5d05ceb8bcc35e304e92e9"
+          }
+        },
+        {
+          "client_id": "1039542871569-ijdiuaeapkn4s140eqsa8l60c21ba7jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipKubIYK1wOG5SVpwxTlpfYo6EF9b1xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039542871569-ijdiuaeapkn4s140eqsa8l60c21ba7jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

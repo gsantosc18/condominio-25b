@@ -1,0 +1,13 @@
+<resources>
+    <string name="topico_informativo">INFORMAÇÕES IMPORTANTES</string>
+    <string name="text_informativo">
+        Informamos a todos os moradores que o data de pagamento do valor do condimínio é todo o dia
+        <b>10</b> do mês e a inadiplência do pagamento pode causar a interrupção da energia da bomba d\'água.
+    </string>
+    <string name="topico_dados_pagamento">SOBRE O PAGAMENTO</string>
+    <string name="text_dados_pagamento">
+        <b>OBS:</b> Após a realização do envio da taxa de pagamento, informe no whatsapp do responsável.\n
+    </string>
+    <string name="chave_pix"><b>CHAVE PIX:</b> (91) 99293-0667</string>
+    <string name="responsavel"><b>RESPONSÁVEL:</b> Gedalias dos Santos Caldas</string>
+</resources>

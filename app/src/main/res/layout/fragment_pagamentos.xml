@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.fragment.PagamentosFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView7"
+            style="@style/topico"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/topic_pagamentos"
+            tools:ignore="TextContrastCheck" />
+
+        <Spinner
+            android:id="@+id/selectMes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:spinnerMode="dialog"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/listPagamentos"
+            android:layout_width="match_parent"
+            android:layout_height="652dp" />
+
+    </LinearLayout>
+</FrameLayout>
